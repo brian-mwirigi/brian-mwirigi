@@ -12,6 +12,7 @@
 > Building web applications that solve real problems. Currently exploring AI/ML applications in fintech and agriculture.
 
 ## Current Projects
+* 👨‍💻 **[runbook](https://github.com/brian-mwirigi/runbook)** - Remember project commands. Run them from anywhere.
 * 👨‍💻 **[DevSession](https://github.com/brian-mwirigi/DevSession)** - Track your AI coding sessions: time, files, commits, and AI costs.
 * 🔑 **[tokenost-cli](https://github.com/brian-mwirigi/tokencost-cli)** - Track your AI API usage and costs across OpenAI, Anthropic, Google, and more.
 * 🏥 **[Hospital-Management](https://github.com/brian-mwirigi/Hospital-Management)** - Healthcare platform with patient records, appointments, and billing
