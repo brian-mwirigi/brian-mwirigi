@@ -14,16 +14,16 @@
 ## Current Projects
 
 * 🌾 **CropChain** - AI credit scoring for smallholder farmers using satellite imagery and M-Pesa data
-* 🏥 **[Hospital-Management](https://github.com/TheCoderBuilder-dev/Hospital-Management)** - Healthcare platform with patient records, appointments, and billing
-* 📦 **[burden-frontend](https://github.com/TheCoderBuilder-dev/burden-frontend)** - Parcel tracking SaaS with real-time updates
-* 🏠 **[Real-estate-management](https://github.com/TheCoderBuilder-dev/Real-estate-management)** - Property and tenant tracking system
-* 🌐 **[stride-footwear](https://github.com/TheCoderBuilder-dev/stride-footwear)** - E-commerce platform for footwear retail
-* 🍵 **[kahawa-lounge](https://github.com/TheCoderBuilder-dev/kahawa-lounge)** - Hospitality website with booking system
-* 💎 **[site-opulent-jewelry](https://github.com/TheCoderBuilder-dev/site-opulent-jewelry)** - Luxury retail e-commerce site
-* 🏨 **[site-aurum-suites](https://github.com/TheCoderBuilder-dev/site-aurum-suites)** - Premium hospitality booking platform
-* 🎮 **[bot-battlr](https://github.com/TheCoderBuilder-dev/bot-battlr)** - Interactive React app showcasing component architecture
-* 🎬 **[flatdango](https://github.com/TheCoderBuilder-dev/flatdango)** - Movie ticket booking with API integration
-* 📊 **[anime-character-database](https://github.com/TheCoderBuilder-dev/anime-character-database)** - API-powered search and filter demo
+* 🏥 **[Hospital-Management](https://github.com/brian-mwirigi/Hospital-Management)** - Healthcare platform with patient records, appointments, and billing
+* 📦 **[burden-frontend](https://github.com/brian-mwirigi/burden-frontend)** - Parcel tracking SaaS with real-time updates
+* 🏠 **[Real-estate-management](https://github.com/brian-mwirigi/Real-estate-management)** - Property and tenant tracking system
+* 🌐 **[stride-footwear](https://github.com/brian-mwirigi/stride-footwear)** - E-commerce platform for footwear retail
+* 🍵 **[kahawa-lounge](https://github.com/brian-mwirigi/kahawa-lounge)** - Hospitality website with booking system
+* 💎 **[site-opulent-jewelry](https://github.com/brian-mwirigi/site-opulent-jewelry)** - Luxury retail e-commerce site
+* 🏨 **[site-aurum-suites](https://github.com/brian-mwirigi/site-aurum-suites)** - Premium hospitality booking platform
+* 🎮 **[bot-battlr](https://github.com/brian-mwirigi/bot-battlr)** - Interactive React app showcasing component architecture
+* 🎬 **[flatdango](https://github.com/brian-mwirigi/flatdango)** - Movie ticket booking with API integration
+* 📊 **[anime-character-database](https://github.com/brian-mwirigi/anime-character-database)** - API-powered search and filter demo
 
 ### Legacy Work
 
@@ -40,9 +40,10 @@
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/-technesh.tech-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://technesh.tech)
+[![Portfolio](https://img.shields.io/badge/-brianmunene.me-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://brianmunene.me)
+[![Blog](https://img.shields.io/badge/-technesh.tech-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://technesh.tech)
 [![LinkedIn](https://img.shields.io/badge/-Brian_Munene-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-munene-890993346/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TheCoderBuilder-dev)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/brian-mwirigi)
 
 ---
 
