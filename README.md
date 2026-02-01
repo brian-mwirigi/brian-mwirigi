@@ -12,9 +12,9 @@
 > Building web applications that solve real problems. Currently exploring AI/ML applications in fintech and agriculture.
 
 ## Current Projects
-* 👨‍💻 **[runbook-cli](https://github.com/brian-mwirigi/runbook)** - Remember project commands. Run them from anywhere.
-* 👨‍💻 **[codesession-cli](https://github.com/brian-mwirigi/DevSession)** - Track your AI coding sessions: time, files, commits, and AI costs.
-* 🔑 **[aitoken-cli](https://github.com/brian-mwirigi/tokencost-cli)** - Track your AI API usage and costs across OpenAI, Anthropic, Google, and more.
+* 👨‍💻 **[runbook-cli](https://github.com/brian-mwirigi/runbook-cli)** - Remember project commands. Run them from anywhere.
+* 👨‍💻 **[codesession-cli](https://github.com/brian-mwirigi/codesession-cli)** - Track your AI coding sessions: time, files, commits, and AI costs.
+* 🔑 **[aitoken-cli](https://github.com/brian-mwirigi/aitoken-cli )** - Track your AI API usage and costs across OpenAI, Anthropic, Google, and more.
 * 🏥 **[Hospital-Management](https://github.com/brian-mwirigi/Hospital-Management)** - Healthcare platform with patient records, appointments, and billing
 * 📦 **[Deliveroo-frontend](https://github.com/brian-mwirigi/Deliveroo-Frontend )** - Parcel tracking SaaS with real-time updates
 * 🏠 **[Real-estate-management](https://github.com/brian-mwirigi/Real-estate-management)** - Property and tenant landing page
