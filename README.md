@@ -13,14 +13,13 @@
 
 ## Current Projects
 
-* 🌾 **CropChain** - AI credit scoring for smallholder farmers using satellite imagery and M-Pesa data
 * 🏥 **[Hospital-Management](https://github.com/brian-mwirigi/Hospital-Management)** - Healthcare platform with patient records, appointments, and billing
-* 📦 **[burden-frontend](https://github.com/brian-mwirigi/burden-frontend)** - Parcel tracking SaaS with real-time updates
-* 🏠 **[Real-estate-management](https://github.com/brian-mwirigi/Real-estate-management)** - Property and tenant tracking system
-* 🌐 **[stride-footwear](https://github.com/brian-mwirigi/stride-footwear)** - E-commerce platform for footwear retail
-* 🍵 **[kahawa-lounge](https://github.com/brian-mwirigi/kahawa-lounge)** - Hospitality website with booking system
-* 💎 **[site-opulent-jewelry](https://github.com/brian-mwirigi/site-opulent-jewelry)** - Luxury retail e-commerce site
-* 🏨 **[site-aurum-suites](https://github.com/brian-mwirigi/site-aurum-suites)** - Premium hospitality booking platform
+* 📦 **[Deliveroo-frontend](https://github.com/brian-mwirigi/Deliveroo-Frontend )** - Parcel tracking SaaS with real-time updates
+* 🏠 **[Real-estate-management](https://github.com/brian-mwirigi/Real-estate-management)** - Property and tenant landing page
+* 🌐 **[stride-footwear](https://github.com/brian-mwirigi/stride-footwear)** - Footwear retail landing page
+* 🍵 **[kahawa-lounge](https://github.com/brian-mwirigi/kahawa-lounge)** - Hospitality website landing page
+* 💎 **[site-opulent-jewelry](https://github.com/brian-mwirigi/site-opulent-jewelry)** - Luxury retail e-commerce site landing page
+* 🏨 **[site-aurum-suites](https://github.com/brian-mwirigi/site-aurum-suites)** - Premium hospitality landing page
 * 🎮 **[bot-battlr](https://github.com/brian-mwirigi/bot-battlr)** - Interactive React app showcasing component architecture
 * 🎬 **[flatdango](https://github.com/brian-mwirigi/flatdango)** - Movie ticket booking with API integration
 * 📊 **[anime-character-database](https://github.com/brian-mwirigi/anime-character-database)** - API-powered search and filter demo
@@ -28,7 +27,6 @@
 ### Legacy Work
 
 * 💼 **Portfolio Sites Collection** - 15+ production-ready websites across various industries
-* 🏥 **Galaxy Medicare** - Patient management and insurance claims processing
 * 📝 **Various Academic Projects** - Bootcamp projects demonstrating full-stack proficiency
 
 ## What I'm Doing
