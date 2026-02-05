@@ -12,6 +12,8 @@
 > Building web applications that solve real problems. Currently exploring AI/ML applications in fintech and agriculture.
 
 ## Current Projects
+* 👨‍💻 **[devmem-cli](https://github.com/brian-mwirigi/devmem-cli)** - Cross-project memory for AI coding assistants
+* 👨‍💻 **[apisnap-cli](https://github.com/brian-mwirigi/apisnap-cli)** - Record API calls. Generate tests and mocks automatically.
 * 👨‍💻 **[runbook-cli](https://github.com/brian-mwirigi/runbook-cli)** - Remember project commands. Run them from anywhere.
 * 👨‍💻 **[codesession-cli](https://github.com/brian-mwirigi/codesession-cli)** - Track your AI coding sessions: time, files, commits, and AI costs.
 * 🔑 **[aitoken-cli](https://github.com/brian-mwirigi/aitoken-cli )** - Track your AI API usage and costs across OpenAI, Anthropic, Google, and more.
