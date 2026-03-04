@@ -1,6 +1,6 @@
 # Hi, I'm Brian 👋
 
-📍 **Nairobi, Kenya** | 💻 **Full-Stack Developer** | 🎓 **CS Student @ Strathmore** **Brian Munene Mwirigi**
+📍 **Nairobi, Kenya** | 💻 **Full-Stack Developer** | 🎓 **CS Student @ Strathmore** | **Brian Munene Mwirigi**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
