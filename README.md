@@ -1,4 +1,4 @@
-# Hi, I'm Brian 👋
+# Brian Munene Mwirigi — Full Stack Developer | React, TypeScript, Python | Nairobi 🇰🇪 | brianmunene.me
 
 📍 **Nairobi, Kenya** | 💻 **Full-Stack Developer** | 🎓 **CS Student @ Strathmore** | **Brian Munene Mwirigi**
 
