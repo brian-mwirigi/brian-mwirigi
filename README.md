@@ -1,4 +1,4 @@
-# Brian Munene Mwirigi — Full Stack Developer | brianmunene.me
+# Brian Munene Mwirigi
 
 📍 **Nairobi, Kenya** | 💻 **Full-Stack Developer** | 🎓 **CS Student @ Strathmore** | **Brian Munene Mwirigi**
 
