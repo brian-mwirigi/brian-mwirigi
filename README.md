@@ -1,4 +1,4 @@
-# Brian Munene Mwirigi
+# Hi, I'm Brian 👋
 
 📍 **Nairobi, Kenya** | 💻 **Full-Stack Developer** | 🎓 **CS Student @ Strathmore** | **Brian Munene Mwirigi**
 
