@@ -1,79 +1,39 @@
-<!-- Brian Munene Mwirigi — @brian-mwirigi -->
-
-<div align="center">
-
 # Brian Munene Mwirigi
 
-**Full-Stack Developer · CLI Toolsmith · CS @ Strathmore University**
+I build developer tools. Five CLI packages on npm, each solving a specific problem I hit while writing code.
 
-<br/>
+CS undergrad at Strathmore University, Nairobi. Interested in developer tooling, AI infrastructure, and systems programming.
 
-<a href="https://brianmunene.me"><img src="https://img.shields.io/badge/brianmunene.me-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/brian-munene-mwirigi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://www.npmjs.com/~brian-mwirigi"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>&nbsp;&nbsp;<a href="https://x.com/BrianMMwirigi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-
-</div>
-
-<br/>
-
-I build developer tools that ship. **5 CLI packages published on npm**, each built to solve a problem I actually hit during development — from tracking AI API costs to generating test suites from live HTTP traffic.
-
-Currently pursuing a BSc in Computer Science at **Strathmore University**, Nairobi. Interested in systems tooling, developer experience, and AI infrastructure.
-
-<br/>
-
-## Packages
-
-> All available via `npm install -g <package>`
-
-| Package | Description | Weekly |
-|:--------|:------------|:------:|
-| [**codesession-cli**](https://github.com/brian-mwirigi/codesession-cli) | Track AI agent coding sessions — time, files changed, commits, token costs | ![](https://img.shields.io/npm/dw/codesession-cli?style=flat-square&label=&color=49a340) |
-| [**aitoken-cli**](https://github.com/brian-mwirigi/aitoken-cli) | Monitor AI API token usage and costs across OpenAI, Anthropic, Google | ![](https://img.shields.io/npm/dw/aitoken-cli?style=flat-square&label=&color=49a340) |
-| [**runbook-cli**](https://github.com/brian-mwirigi/runbook-cli) | Save and execute project commands from any directory | ![](https://img.shields.io/npm/dw/runbook-cli?style=flat-square&label=&color=49a340) |
-| [**apisnap-cli**](https://github.com/brian-mwirigi/apisnap-cli) | Capture HTTP traffic, auto-generate Jest tests and MSW mocks | ![](https://img.shields.io/npm/dw/apisnap-cli?style=flat-square&label=&color=49a340) |
-| [**devmem-cli**](https://github.com/brian-mwirigi/devmem-cli) | Persistent cross-project code memory for AI coding assistants | ![](https://img.shields.io/npm/dw/devmem-cli?style=flat-square&label=&color=49a340) |
-
-<br/>
-
-## Stack
-
-```
-TypeScript · Python · JavaScript · React · Next.js · Node.js · Flask · PostgreSQL · Tailwind CSS · Docker · Git
-```
-
-<br/>
-
-## GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=brian-mwirigi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=brian-mwirigi&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brian-mwirigi&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=brian-mwirigi&theme=github-dark-blue&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=brian-mwirigi&theme=default&hide_border=true">
-  <img height="170" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=brian-mwirigi&theme=github-dark-blue&hide_border=true"/>
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=brian-mwirigi&theme=github-dark&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=brian-mwirigi&theme=minimal&hide_border=true&area=true">
-  <img width="98%" alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=brian-mwirigi&theme=github-dark&hide_border=true&area=true"/>
-</picture>
-
-</div>
+[brianmunene.me](https://brianmunene.me) · [LinkedIn](https://www.linkedin.com/in/brian-munene-mwirigi) · [npm](https://www.npmjs.com/~brian-mwirigi)
 
 ---
 
-<div align="center">
-  <sub>Open to collaborating on open-source CLI tools, developer tooling, and AI infrastructure.</sub>
-</div>
+### Shipped
+
+| | What it does | Why it exists |
+|:--|:--|:--|
+| [**codesession-cli**](https://github.com/brian-mwirigi/codesession-cli) | Tracks AI-assisted coding sessions — time, files changed, git diffs, token costs across providers. Uses file system watchers and git process spawning to capture everything automatically. | I was losing track of how much AI-assisted coding actually cost per session. No tool existed to measure it end-to-end. |
+| [**aitoken-cli**](https://github.com/brian-mwirigi/aitoken-cli) | Unified dashboard for AI API token usage and costs. Normalizes pricing across OpenAI, Anthropic, and Google (per-1K vs per-1M, input/output rate splits). | Every provider reports costs differently. I needed one view across all of them. |
+| [**apisnap-cli**](https://github.com/brian-mwirigi/apisnap-cli) | HTTP proxy that captures live API traffic and auto-generates Jest tests and MSW mock handlers from recorded requests. | Writing mocks by hand for integration tests is tedious and error-prone. This records real traffic and produces ready-to-use test code. |
+| [**devmem-cli**](https://github.com/brian-mwirigi/devmem-cli) | Persistent cross-project code memory for AI coding assistants. Extracts and indexes code patterns so AI tools have context beyond the current file. | AI assistants forget everything between sessions. This gives them long-term memory across your entire codebase. |
+| [**runbook-cli**](https://github.com/brian-mwirigi/runbook-cli) | Global command registry — save project-specific commands once, execute from any directory with correct working-directory context. | I was tired of `cd`-ing into projects just to remember and run their specific build/deploy commands. |
+
+### Other work
+
+[**Jarvis**](https://github.com/brian-mwirigi/Jarvis) — Voice-controlled AI assistant (Python). NLP pipeline, task automation, smart home integration.
+
+[**brianmunene.me**](https://brianmunene.me) — Portfolio and blog. Next.js 14, TypeScript, MDX, Tailwind CSS. Statically generated, deployed on Vercel.
+
+### Stack
+
+```
+Languages    TypeScript · Python · JavaScript
+Frontend     React · Next.js · Tailwind CSS
+Backend      Node.js · Flask · Express
+Data         PostgreSQL · SQLite
+Infra        Docker · Git · Vercel · GitHub Actions
+```
+
+---
+
+<sub>Open to opportunities in developer tooling, AI infrastructure, and systems engineering. Reach me at brian@brianmunene.me</sub>
