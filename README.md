@@ -7,6 +7,8 @@
 I build developer tools that solve problems I actually have.<br/>
 Five CLI packages on npm. All open source.
 
+![Profile Views](https://komarev.com/ghpvc/?username=brian-mwirigi&color=blueviolet&style=flat-square&label=Profile+Views)
+
 <a href="https://brianmunene.me">🌐 brianmunene.me</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/brian-munene-mwirigi">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.npmjs.com/~brian-mwirigi">npm</a> &nbsp;·&nbsp; <a href="https://x.com/BrianMMwirigi">𝕏</a>
 
 </div>
