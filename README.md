@@ -1,61 +1,84 @@
-<div align="center">
+<pre align="center">
+██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
+██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║
+██████╔╝██████╔╝██║███████║██╔██╗ ██║
+██╔══██╗██╔══██╗██║██╔══██║██║╚██╗██║
+██████╔╝██║  ██║██║██║  ██║██║ ╚████║
+╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+</pre>
 
-# Brian Munene Mwirigi
+<p align="center">
+  <b>I build MCP servers that feel like products, not wrappers.</b><br/>
+  Nairobi · Strathmore CS · <a href="https://brianmunene.me">brianmunene.me</a>
+</p>
 
-**CS @ Strathmore · Nairobi · building MCP tools people actually use**
-
-[brianmunene.me](https://brianmunene.me) · [X](https://x.com/BrianMMwirigi) · [LinkedIn](https://www.linkedin.com/in/brian-munene-mwirigi) · [npm](https://www.npmjs.com/~brian-mwirigi)
-
-</div>
-
----
-
-## Now shipping
-
-| | | |
-|:--|:--|:--|
-| **[AUX](https://github.com/brian-mwirigi/aux-mcp)** | Spotify for your AI | Vibe DJ, roast cards, party rooms, auto-DJ — full Spotify MCP · [`npx spotify-aux`](https://www.npmjs.com/package/spotify-aux) · [landing](https://brianmunene.me/aux) |
-| **[COBBLE](https://github.com/brian-mwirigi/cobble-mcp)** | Minecraft for your AI | Mineflayer co-op bot — chats, invents builds with `mc_design`, fights in your world · [`npx cobble-mcp`](https://www.npmjs.com/package/cobble-mcp) · [landing](https://brianmunene.me/cobble) |
-
-Both work with any MCP client (Claude Desktop, Cursor, Windsurf, etc.).
-
----
-
-## CLI tools
-
-| Package | What it does |
-|:--|:--|
-| [**CostHQ**](https://github.com/brian-mwirigi/codesession-cli) | Track coding sessions — time, files, commits, AI costs |
-| [**aitoken-cli**](https://github.com/brian-mwirigi/aitoken-cli) | Local AI API cost tracker across OpenAI, Anthropic, Google & more |
-| [**apisnap-cli**](https://github.com/brian-mwirigi/apisnap-cli) | Record live API traffic → Jest tests, MSW mocks, OpenAPI |
-| [**devmem-cli**](https://github.com/brian-mwirigi/devmem-cli) | Cross-project memory / code search for AI assistants |
-| [**runbook-cli**](https://github.com/brian-mwirigi/runbook-cli) | Save project commands once, run them from any folder |
+<p align="center">
+  <a href="https://x.com/BrianMMwirigi">𝕏</a> ·
+  <a href="https://www.npmjs.com/~brian-mwirigi">npm</a> ·
+  <a href="https://www.linkedin.com/in/brian-munene-mwirigi">LinkedIn</a>
+</p>
 
 ---
 
-## Elsewhere
+### Drop these into any MCP client
 
-- **[brianmunene.me](https://brianmunene.me)** — portfolio, product pages, blog
-- **[BIP-100 / CRACKED](https://brianmunene.me/cracked)** — public log: one technical artifact a week
-- Chrome extensions on the [Chrome Web Store](https://chromewebstore.google.com/search/Brian%20Mwirigi) (AI Slop Blocker, thread/video downloaders)
-
----
-
-## Stack
-
-```text
-TypeScript · Python · React · Next.js · Node
-MCP · Mineflayer · Spotify Web API
-PostgreSQL · SQLite · Docker · Vercel
+```bash
+npx -y spotify-aux    # AUX — Spotify for your AI
+npx -y cobble-mcp     # COBBLE — Minecraft for your AI
 ```
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [AUX](https://github.com/brian-mwirigi/aux-mcp)
+**Spotify for your AI.**
+
+Vibe DJ. Roast cards. Party rooms. Auto-DJ. Your agent actually runs the aux.
+
+[`npm`](https://www.npmjs.com/package/spotify-aux) · [`site`](https://brianmunene.me/aux)
+
+</td>
+<td width="50%" valign="top">
+
+#### [COBBLE](https://github.com/brian-mwirigi/cobble-mcp)
+**Minecraft for your AI.**
+
+Mineflayer co-op. Agent invents builds with `mc_design`. Chats. Fights. Lives in your world.
+
+[`npm`](https://www.npmjs.com/package/cobble-mcp) · [`site`](https://brianmunene.me/cobble)
+
+</td>
+</tr>
+</table>
+
 ---
 
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=brian-mwirigi&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-mwirigi&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</div>
+<details>
+<summary><b>CLI tools I shipped earlier</b></summary>
+<br/>
 
-<div align="center">
-  <sub>Open to roles in developer tooling, AI agents / MCP, and systems work.</sub>
-</div>
+| | |
+|:--|:--|
+| [CostHQ](https://github.com/brian-mwirigi/codesession-cli) | Coding session + AI cost tracker |
+| [aitoken-cli](https://github.com/brian-mwirigi/aitoken-cli) | Local multi-provider AI spend |
+| [apisnap-cli](https://github.com/brian-mwirigi/apisnap-cli) | Live traffic → tests / mocks / OpenAPI |
+| [devmem-cli](https://github.com/brian-mwirigi/devmem-cli) | Cross-project memory for AI assistants |
+| [runbook-cli](https://github.com/brian-mwirigi/runbook-cli) | Project commands from any folder |
+
+</details>
+
+<details>
+<summary><b>What I'm doing now</b></summary>
+<br/>
+
+Public weekly log → **[BIP-100 / CRACKED](https://brianmunene.me/cracked)**  
+Foundations → GPU systems → open-source inference. One artifact a week. No motivation posts.
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brian-mwirigi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="140" alt="stats" />
+</p>
