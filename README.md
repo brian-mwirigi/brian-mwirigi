@@ -4,18 +4,15 @@ brian munene mwirigi
 strathmore cs · nairobi
 ```
 
-i don't talk about what i'm going to build.  
-i ship it, then disappear into the next hard thing.
-
 <br/>
 
-**right now**
+**building**
 
 ```
-aux      agents that control spotify — vibe, roast, party, auto-dj
+aux      spotify mcp — vibe, roast, party, auto-dj
          github.com/brian-mwirigi/aux-mcp
 
-cobble   agents that live in minecraft — chat, invent builds, fight
+cobble   minecraft mcp — chat, build, fight
          github.com/brian-mwirigi/cobble-mcp
 ```
 
@@ -26,34 +23,19 @@ npx -y cobble-mcp
 
 <br/>
 
-**before that**
-
-a stack of cli tools for the problems nobody else bothered to measure —  
-ai spend, coding sessions, api traffic → tests, cross-project memory.
+**also**
 
 <details>
-<summary>the list</summary>
+<summary>cli tools</summary>
 
-- [costhq](https://github.com/brian-mwirigi/codesession-cli)
-- [aitoken-cli](https://github.com/brian-mwirigi/aitoken-cli)
-- [apisnap-cli](https://github.com/brian-mwirigi/apisnap-cli)
-- [devmem-cli](https://github.com/brian-mwirigi/devmem-cli)
-- [runbook-cli](https://github.com/brian-mwirigi/runbook-cli)
+- [costhq](https://github.com/brian-mwirigi/codesession-cli) — session + ai cost tracker
+- [aitoken-cli](https://github.com/brian-mwirigi/aitoken-cli) — local multi-provider spend
+- [apisnap-cli](https://github.com/brian-mwirigi/apisnap-cli) — traffic → tests / mocks
+- [devmem-cli](https://github.com/brian-mwirigi/devmem-cli) — cross-project memory
+- [runbook-cli](https://github.com/brian-mwirigi/runbook-cli) — commands from any folder
 
 </details>
 
 <br/>
 
-**the long game**
-
-[bip-100](https://brianmunene.me/cracked) — 100 weeks.  
-foundations → gpu systems → open-source inference.  
-one public artifact every week. no plans. no motivation posts.
-
-<br/>
-
-```
-site     brianmunene.me
-x        @BrianMMwirigi
-npm      ~brian-mwirigi
-```
+[bip-100](https://brianmunene.me/cracked) · [brianmunene.me](https://brianmunene.me) · [@BrianMMwirigi](https://x.com/BrianMMwirigi) · [npm](https://www.npmjs.com/~brian-mwirigi)
