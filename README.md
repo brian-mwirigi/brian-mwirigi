@@ -9,24 +9,11 @@ strathmore cs · nairobi
 **building**
 
 ```
-triton-blackhole   numerical debugger for triton fp drift
-                   github.com/brian-mwirigi/triton-blackhole
 
-spec-probe         token-level diagnostics for vllm speculative decoding
-                   github.com/brian-mwirigi/spec-probe
-
-aux                spotify mcp — vibe, roast, party, auto-dj
-                   github.com/brian-mwirigi/aux-mcp
-
-cobble             minecraft mcp — chat, build, fight
-                   github.com/brian-mwirigi/cobble-mcp
 ```
 
 ```bash
-pip install triton-blackhole
-pip install spec-probe
-npx -y spotify-aux
-npx -y cobble-mcp
+
 ```
 
 <br/>
