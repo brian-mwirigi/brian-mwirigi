@@ -1,7 +1,6 @@
 ```
 brian munene mwirigi
 ───────────────
-strathmore cs · nairobi
 ```
 
 <br/>
@@ -12,14 +11,13 @@ strathmore cs · nairobi
 panacea          zero-trust security agent for hospital networks
 ai slop blocker  on-device ai content detector · 350+ users
 costhq           ai agent cost tracking + budget limits
-breon studio     web studio · next.js + m-pesa
 ```
 
 ```bash
 $ whoami
 ai agents · llms · mcp · full-stack
 $ stack
-python  typescript  fastapi  next.js  langgraph  docker
+python  typescript  fastapi  next.js  langgraph  docker....
 ```
 
 <br/>
