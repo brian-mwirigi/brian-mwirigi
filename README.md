@@ -2,8 +2,6 @@
 
 Systems, DevSecOps, and AI infrastructure. I focus on the execution layer underneath the model: process isolation, local/edge inference, and deterministic verification pipelines.
 
-Currently studying Computer Science at Strathmore University and doing edge AI research on microcontrollers at @iLabAfrica.
-
 ### Focus Areas
 
 - **Runtime Isolation & Security:** Sandboxing untrusted code and agent tool-calls using Linux namespaces, cgroups, container hardening, and capability-based permissions (WebAuthn).
