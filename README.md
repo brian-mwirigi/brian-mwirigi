@@ -55,7 +55,6 @@ process sandboxing (namespaces/cgroups) · quantized model serving · determinis
 - [packet-tracer-mcp](https://github.com/brian-mwirigi/packet-tracer-mcp) — cisco packet tracer network automation via mcp
 - [aux-mcp](https://github.com/brian-mwirigi/aux-mcp) — local system & media control via mcp
 - [cobble-mcp](https://github.com/brian-mwirigi/cobble-mcp) — autonomous game state agents via mcp
-- [bioacoustic-edge](https://github.com/brian-mwirigi) — esp32 tflite micro acoustic sensing (@ilabafrica)
 
 </details>
 
