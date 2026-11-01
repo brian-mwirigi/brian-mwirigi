@@ -1,21 +1,66 @@
-# Brian Munene Mwirigi
+```
+brian munene mwirigi
+────────────────────
+ai infrastructure · systems · devsecops
+```
 
-Systems, DevSecOps, and AI infrastructure. I focus on the execution layer underneath the model: process isolation, local/edge inference, and deterministic verification pipelines.
+<br/>
 
-### Focus Areas
+**building**
 
-- **Runtime Isolation & Security:** Sandboxing untrusted code and agent tool-calls using Linux namespaces, cgroups, container hardening, and capability-based permissions (WebAuthn).
-- **Local & Edge Inference:** Quantizing and serving open-weight models on Linux servers and constrained hardware (vLLM, ExecuTorch, ONNX, TFLite Micro) for offline and air-gapped environments.
-- **Deterministic Verification:** Pairing model extraction with sandboxed Python/TypeScript verification harnesses for workflows where hallucinations aren't acceptable (financial reconciliation, tax compliance, medical auditing).
-- **Developer Tooling:** CLI utilities for token telemetry, cost circuit-breakers, and cryptographic authorship attestation.
+```
+tethro            zero-trust sandbox & runtime control plane for ai agents
+blotter           sandboxed python financial reconciliation engine
+o.c.a.            offline on-device medical claims auditor · executorch
+costhq            ai token telemetry + runtime budget circuit-breakers
+ai slop blocker   local hybrid ml classifier · 350+ users
+```
 
-### Stack
+```bash
+$ whoami
+ai systems · devsecops · linux isolation · local/edge inference
 
-- **Languages:** Python, TypeScript, C/C++, SQL, Bash, Luau
-- **Systems & Infra:** Linux, Docker, PostgreSQL, GitHub Actions, Nginx/Caddy
-- **Inference & Hardware:** vLLM, ExecuTorch, ONNX Runtime, TFLite Micro, ESP32
+$ stack
+python  typescript  c/c++  sql  bash  linux  docker  vllm  executorch  onnx  postgresql
 
-### Links
+$ focus
+process sandboxing (namespaces/cgroups) · quantized model serving · deterministic evals
+```
 
-- Portfolio: [brianmunene.me](https://brianmunene.me)
-- Contact: [brian@brianmunene.me](mailto:brian@brianmunene.me)
+<br/>
+
+**also**
+
+<details>
+<summary>security & verification</summary>
+
+- [tethro](https://github.com/brian-mwirigi) — zero-trust sandboxing utility for ai coding agents
+- [boundary.sig](https://github.com/brian-mwirigi) — webauthn capability protocol for agent tool calls
+- [zk-scribe](https://brianmunene.me/zkscribe) — cryptographic authorship & contribution attestation cli
+
+</details>
+
+<details>
+<summary>cli tools</summary>
+
+- [costhq](https://github.com/brian-mwirigi/codesession-cli) — session + ai token cost tracker
+- [aitoken-cli](https://www.npmjs.com/package/aitoken-cli) — ai token counter
+- [runbook-cli](https://www.npmjs.com/package/runbook-cli) — terminal runbook execution
+
+</details>
+
+<details>
+<summary>mcp servers & edge</summary>
+
+- [packet-tracer-mcp](https://github.com/brian-mwirigi/packet-tracer-mcp) — cisco packet tracer network automation via mcp
+- [aux-mcp](https://github.com/brian-mwirigi/aux-mcp) — local system & media control via mcp
+- [cobble-mcp](https://github.com/brian-mwirigi/cobble-mcp) — autonomous game state agents via mcp
+- [bioacoustic-edge](https://github.com/brian-mwirigi) — esp32 tflite micro acoustic sensing (@ilabafrica)
+
+</details>
+
+<br/>
+
+```
+portfolio: brianmunene.me
+```
