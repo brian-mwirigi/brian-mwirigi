@@ -1,51 +1,23 @@
-```
-brian munene mwirigi
-───────────────
-```
+# Brian Munene Mwirigi
 
-<br/>
+Systems, DevSecOps, and AI infrastructure. I focus on the execution layer underneath the model: process isolation, local/edge inference, and deterministic verification pipelines.
 
-**building**
+Currently studying Computer Science at Strathmore University and doing edge AI research on microcontrollers at @iLabAfrica.
 
-```
-panacea          zero-trust security agent for hospital networks
-ai slop blocker  on-device ai content detector · 350+ users
-costhq           ai agent cost tracking + budget limits
-```
+### Focus Areas
 
-```bash
-$ whoami
-ai agents · llms · mcp · full-stack
-$ stack
-python  typescript  fastapi  next.js  langgraph  docker....
-```
+- **Runtime Isolation & Security:** Sandboxing untrusted code and agent tool-calls using Linux namespaces, cgroups, container hardening, and capability-based permissions (WebAuthn).
+- **Local & Edge Inference:** Quantizing and serving open-weight models on Linux servers and constrained hardware (vLLM, ExecuTorch, ONNX, TFLite Micro) for offline and air-gapped environments.
+- **Deterministic Verification:** Pairing model extraction with sandboxed Python/TypeScript verification harnesses for workflows where hallucinations aren't acceptable (financial reconciliation, tax compliance, medical auditing).
+- **Developer Tooling:** CLI utilities for token telemetry, cost circuit-breakers, and cryptographic authorship attestation.
 
-<br/>
+### Stack
 
-**also**
+- **Languages:** Python, TypeScript, C/C++, SQL, Bash, Luau
+- **Systems & Infra:** Linux, Docker, PostgreSQL, GitHub Actions, Nginx/Caddy
+- **Inference & Hardware:** vLLM, ExecuTorch, ONNX Runtime, TFLite Micro, ESP32
 
-<details>
-<summary>cli tools</summary>
+### Links
 
-- [costhq](https://github.com/brian-mwirigi/codesession-cli) — session + ai cost tracker
-- [aitoken-cli](https://www.npmjs.com/package/aitoken-cli) — ai token counter
-- [runbook-cli](https://www.npmjs.com/package/runbook-cli) — runbooks from the terminal
-
-</details>
-
-<details>
-<summary>mcp servers</summary>
-
-- [packet-tracer-mcp](https://github.com/brian-mwirigi/packet-tracer-mcp) — cisco packet tracer for ai agents
-- [aux-mcp](https://github.com/brian-mwirigi/aux-mcp) — spotify control via mcp
-- [cobble-mcp](https://github.com/brian-mwirigi/cobble-mcp) — minecraft bots via mcp
-
-</details>
-
-<details>
-<summary>hackathons</summary>
-
-- blotter — 2nd place kenya + nvidia brev breakthrough award · gomycode x nvidia
-- jibutax — 2nd place · cursor kenya build night
-
-</details>
+- Portfolio: [brianmunene.me](https://brianmunene.me)
+- Contact: [brian@brianmunene.me](mailto:brian@brianmunene.me)
